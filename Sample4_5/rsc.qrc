@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>srcBmp/bitmap.bmp</file>
+        <file>srcBmp/defaultfile.bmp</file>
+        <file>srcBmp/dsdadd.bmp</file>
+        <file>srcBmp/dsdconstant.bmp</file>
+        <file>srcBmp/dsddot.bmp</file>
+        <file>srcBmp/dsdfilters.bmp</file>
+        <file>srcBmp/dsdmath.bmp</file>
+        <file>srcBmp/dsdmul.bmp</file>
+        <file>srcBmp/dsdmuladd.bmp</file>
+        <file>srcBmp/dsdnormalize.bmp</file>
+        <file>srcBmp/dsdparam.bmp</file>
+        <file>srcBmp/dsdpow.bmp</file>
+        <file>srcBmp/dsdsaturate.bmp</file>
+        <file>srcBmp/dsdterminal.bmp</file>
+        <file>srcBmp/dsdtexsample.bmp</file>
+        <file>srcBmp/dsdtextures.bmp</file>
+        <file>srcBmp/dsdutil.bmp</file>
+        <file>srcBmp/frowny.bmp</file>
+        <file>srcBmp/game-icon.bmp</file>
+        <file>srcBmp/mreCone.bmp</file>
+        <file>srcBmp/mreCube.bmp</file>
+        <file>srcBmp/mreCylinder.bmp</file>
+        <file>srcBmp/mreDisc.bmp</file>
+        <file>srcBmp/mrePlane.bmp</file>
+        <file>srcBmp/mreSphere.bmp</file>
+        <file>srcBmp/mreTeapot.bmp</file>
+        <file>srcBmp/python.bmp</file>
+        <file>srcBmp/shaderLambert.bmp</file>
+        <file>srcBmp/shaderOthers.bmp</file>
+        <file>srcBmp/shaderPhong.bmp</file>
+        <file>srcBmp/shaderUnlit.bmp</file>
+        <file>srcBmp/smiley.bmp</file>
+        <file>srcBmp/Toolbar.bmp</file>
+    </qresource>
+</RCC>
