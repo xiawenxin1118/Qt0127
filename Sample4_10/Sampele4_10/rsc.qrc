@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>icons/aim.ico</file>
+        <file>icons/UNIT.ICO</file>
+    </qresource>
+</RCC>
